@@ -1,4 +1,4 @@
-This ImageJ macro helps process Fluorescence Recovery After Photobleaching (FRAP) time series data from Leica microscopes on single cells. Specifically it is useful for when the tracked photobleached object may move throughout the postbleach period such as biomolecular condensates. It's main function is to:
+This ImageJ macro helps process Fluorescence Recovery After Photobleaching (FRAP) time series data from Leica microscopes (.lif files) on single cells. Specifically it is useful for when the tracked photobleached object may move throughout the postbleach period such as biomolecular condensates. It's main function is to:
 
 1. Read metadata of images for timeline
 2. Concatenate pre and post bleach series together,
